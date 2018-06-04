@@ -1,4 +1,4 @@
-# Data Science Nanodegree (Term 1)
+# Data Scientist Nanodegree (Term 1)
 
  Content for Udacity's Data Science Nanodegree curriculum, which includes project and lesson content.
 
