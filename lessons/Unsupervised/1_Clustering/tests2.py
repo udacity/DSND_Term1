@@ -36,6 +36,6 @@ def check_q5(stuff):
     d = 'Scaling will not change the results of your output.'
 
     if stuff == c:
-        return Image(filename="./giphy.gif")
+        return Image(filename="./giphy (1).gif")
     else:
         print("Oops!  That doesn't look quite right.  Try again!")
