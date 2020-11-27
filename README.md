@@ -1,4 +1,4 @@
-# Intro to Machine Learning with Pytorch Nanodegree (Term 1)
+# Intro to Machine Learning with Pytorch Nanodegree (nd229)
 
  Content for Udacity's Intro to Machine Learning with Pytorch Nanodegree curriculum, which includes project and lesson content.
 
