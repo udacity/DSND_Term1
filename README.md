@@ -1,4 +1,4 @@
-# Intro to Machine Learning with Pytorch Nanodegree (nd229)
+# Intro to Machine Learning with Pytorch Nanodegree (nd229) - C1 Supervised Learning
 
  Content for Udacity's Intro to Machine Learning with Pytorch Nanodegree curriculum, which includes project and lesson content.
 
