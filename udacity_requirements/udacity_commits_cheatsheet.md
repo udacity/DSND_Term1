@@ -1,5 +1,5 @@
 # Commits: Subject Type
-Udacity style guide prefers that commit subjects are prefixed with one of the types below
+The [Udacity git style guide](https://udacity.github.io/git-styleguide/) prefers that commit subjects are prefixed with one of the types below
 
 # types
 
