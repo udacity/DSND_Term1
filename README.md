@@ -1,6 +1,6 @@
 # Finding Donors for CharityML
 
-Assessment Project for WGU-CS C753 - Machine Learning
+Assessment project for WGU-CS C753 - Machine Learning
 
 # Forked from udacity/DSND_Term1
 
