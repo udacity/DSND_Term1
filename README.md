@@ -1,4 +1,18 @@
-# Intro to Machine Learning with Pytorch Nanodegree (nd229)
+# Finding Donors for CharityML
+
+Assessment Project for WGU-CS C753 - Machine Learning
+
+# Forked from udacity/DSND_Term1
+
+## How much of this repo remains from the original repo?
+
+The **"p1_charityml"** folder is a copy of a folder from the "projects" folder of the original repository.
+
+All other files are my original work, unless otherwise noted within the file or a readme in the containing folder.
+
+## Original Readme and licensing
+
+### Intro to Machine Learning with Pytorch Nanodegree (nd229)
 
  Content for Udacity's Intro to Machine Learning with Pytorch Nanodegree curriculum, which includes project and lesson content.
 
