@@ -4,11 +4,19 @@ Assessment project for WGU-CS C753 - Machine Learning
 
 # Forked from udacity/DSND_Term1
 
-## How much of this repo remains from the original repo?
+## Changes to this fork from the original repo
 
-The **"p1_charityml"** folder is a copy of a folder from the "projects" folder of the original repository.
+The `p1_charityml` folder is an exact copy of from the `projects\p1_charityml` folder of the original repository.
+
+All files and folders other than `p1_charityml` and `README.md` were deleted (they weren't relevant to the project)
 
 All other files are my original work, unless otherwise noted within the file or a readme in the containing folder.
+
+## finding_donors
+
+The `finding_donors` folder is intended as a submission for grading. It is originally a copy of `p1_charityml`.
+
+See the README.md file in the finding_donors folder for additional details.
 
 ## Original Readme and licensing
 
