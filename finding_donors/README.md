@@ -1,3 +1,29 @@
+# finding_donors is copied from p1_charityml
+
+This folder is a copy of `p1_charityml`.
+
+## Changed files
+
+- `README.md` (this file): Additions to discuss this submission and changes from p1_charityml
+- `finding_donors.ipynb`: This file is a template and I have modified it to fit my needs.
+
+## Unchanged files
+
+The following files are unchanged from p1_charityml.
+
+- `census.csv`
+- `example_submission.csv`
+- `test_census.csv`
+- `visuals.py`
+
+# New files
+
+Any files other than those listed above are my original work unless stated otherwise inline.
+
+# Original Readme
+
+The original `README.md` text from the p1_charityml follows this line.
+
 # Data Scientist Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
