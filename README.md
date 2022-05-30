@@ -6,7 +6,7 @@ Assessment project for WGU-CS C753 - Machine Learning
 
 ## Changes to this fork from the original repo
 
-The `p1_charityml` folder is an exact copy of from the `projects\p1_charityml` folder of the original repository.
+The `p1_charityml.orig` folder is an exact copy of from the `projects\p1_charityml` folder of the original repository.
 
 All files and folders other than `p1_charityml` and `README.md` were deleted (they weren't relevant to the project)
 
@@ -14,9 +14,9 @@ All other files are my original work, unless otherwise noted within the file or 
 
 ## finding_donors
 
-The `finding_donors` folder is intended as a submission for grading. It is originally a copy of `p1_charityml`.
+The `finding_donors` folder is intended as a submission for grading (the name is required for the submission). It is originally a copy of `p1_charityml.orig`.
 
-See the README.md file in the finding_donors folder for additional details.
+See the README.md file in the finding_donors folder for additional details, and submission guidelines.
 
 ## Original Readme and licensing
 
